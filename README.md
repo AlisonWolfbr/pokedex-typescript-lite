@@ -267,3 +267,14 @@ O arquivo `pc_box.json` estÃ¡ incluÃ­do e inicializado com `[]`, conforme o mate
 ## Fonte externa
 
 PokeAPI: https://pokeapi.co/docs/v2
+
+## Validação do projeto
+
+O projeto foi validado com os seguintes comandos:
+
+- `npm install` — instalação das dependências.
+- `npm run start` — execução da aplicação em TypeScript.
+- `npm run build` — compilação do TypeScript.
+- `npm run start:compiled` — execução da versão compilada.
+
+Os testes demonstram o consumo da PokeAPI, inclusão de Pokémon no catálogo, prevenção de duplicidade, tratamento de Pokémon inexistente, listagem e remoção por ID.
