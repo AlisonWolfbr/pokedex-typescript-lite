@@ -34,3 +34,12 @@
 - `main.ts`
 - README
 - `pc_box.json`
+
+## Validação das etapas
+
+- [x] Configuração do projeto Node.js e TypeScript
+- [x] Integração com a PokeAPI
+- [x] Implementação do catálogo local
+- [x] Tratamento de duplicidade e remoção
+- [x] Testes de execução e compilação
+- [x] Documentação do projeto
